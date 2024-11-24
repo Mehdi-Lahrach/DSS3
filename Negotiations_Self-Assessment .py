@@ -1,4 +1,3 @@
-# List of questions from the table
 questions = [
     "1. If the other party’s position seems very important to him or her, I may sacrifice my own position.",
     "2. I address problems and concerns directly without blame or judgment.",
